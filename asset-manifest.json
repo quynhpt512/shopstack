@@ -1,0 +1,13 @@
+{
+  "main.css": "/shopstack/static/css/main.be9cd952.chunk.css",
+  "main.js": "/shopstack/static/js/main.47f74980.chunk.js",
+  "main.js.map": "/shopstack/static/js/main.47f74980.chunk.js.map",
+  "runtime~main.js": "/shopstack/static/js/runtime~main.5dfc7824.js",
+  "runtime~main.js.map": "/shopstack/static/js/runtime~main.5dfc7824.js.map",
+  "static/js/2.61da7be5.chunk.js": "/shopstack/static/js/2.61da7be5.chunk.js",
+  "static/js/2.61da7be5.chunk.js.map": "/shopstack/static/js/2.61da7be5.chunk.js.map",
+  "index.html": "/shopstack/index.html",
+  "precache-manifest.f2ac4db53d05ad838ce2e5042164ff46.js": "/shopstack/precache-manifest.f2ac4db53d05ad838ce2e5042164ff46.js",
+  "service-worker.js": "/shopstack/service-worker.js",
+  "static/css/main.be9cd952.chunk.css.map": "/shopstack/static/css/main.be9cd952.chunk.css.map"
+}
